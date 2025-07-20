@@ -9,8 +9,11 @@ A temperature value - The original unit of measurement (C, F, or K)
 It then converts the temperature to the other two units and displays the results.
 
 Technologies Used - 
+
 Language: Java
+
 IDE: IntelliJ IDEA (No build tools used)
+
 Input Method: Console (Scanner class)
 
 Features -
